@@ -12,8 +12,8 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "icon": "book-open-cover",
+          "anchor": "Dalab Website",
+          "icon": "globe-pointer",
           "href": "https://mintlify.com/docs"
         },
         {
